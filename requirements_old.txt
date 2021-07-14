@@ -1,7 +1,7 @@
 django==1.8
 pillow==4.3.0
 django-bootstrap4==0.0.4
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-firebird==1.8
 django-google-charts==0.1.1
 django-qsstats-magic==1.0.0
