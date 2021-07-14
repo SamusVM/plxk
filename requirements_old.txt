@@ -1,5 +1,5 @@
 django==1.8
-pillow==4.3.0
+pillow==8.2.0
 django-bootstrap4==0.0.4
 django-debug-toolbar==1.9.1
 django-firebird==1.8

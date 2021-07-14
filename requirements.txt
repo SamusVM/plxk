@@ -1,14 +1,14 @@
-django==3.1.13  # django 3.2 не підтримує mysql < 5.7, у нас зараз 5.5.56
-pillow==8.0.1
+django==3.1.13  # django 3.2 Г­ГҐ ГЇВіГ¤ГІГ°ГЁГ¬ГіВє mysql < 5.7, Гі Г­Г Г± Г§Г Г°Г Г§ 5.5.56
+pillow==8.2.0
 django-bootstrap4==2.3.1
 django-debug-toolbar==3.2
-# django-firebird==1.11 - не праює з django > 1.11
+# django-firebird==1.11 - Г­ГҐ ГЇГ°Г ГѕВє Г§ django > 1.11
 django-google-charts==0.1.1
 django-qsstats-magic==1.1.0
 django-webpack-loader==0.7.0
 django-widget-tweaks==1.4.8
 fdb==2.0.1
-mysqlclient==2.0.1  # Станом на 03.12.2020 не підтримує python > 3.8
+mysqlclient==2.0.1  # Г‘ГІГ Г­Г®Г¬ Г­Г  03.12.2020 Г­ГҐ ГЇВіГ¤ГІГ°ГЁГ¬ГіВє python > 3.8
 numpy==1.19.4
 olefile==0.46
 pyparsing==2.4.7
